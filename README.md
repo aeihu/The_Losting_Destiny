@@ -1,4 +1,4 @@
-# The Losting Destiny
+# 夙之缘（The Losting Destiny）
 
 ## Summary:
 
