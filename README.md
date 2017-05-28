@@ -7,4 +7,5 @@
   <img src="https://i.creativecommons.org/l/by/4.0/88x31.png" alt="CC-BY" />
 </a>
 <br/>
-\<The Losting Destiny\>'s Chinese version is licensed under Creative Commons Attribution 4.0 International License.
+
+\<The Losting Destiny\>'s Chinese and Japanese versions is licensed under Creative Commons Attribution 4.0 International License.
